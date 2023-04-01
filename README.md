@@ -11,7 +11,8 @@ Currently, the analysis shows
 
 ## Installation
 ```
-conda create -n resolve -f environment.yml
+conda create -n operation-inherent-resolve -f environment.yml
+conda activate operation-inherent-resolve
 ```
 
 ## Usage
